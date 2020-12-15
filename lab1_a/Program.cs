@@ -35,8 +35,8 @@ namespace lab1_a {
         static object locker = new object();
         static void Go() {
             lock(locker) {
-                var data = ThreadTest.calc(200, $"Threaded");
-                Console.WriteLine(data);
+                Console.WriteLine(DateTimeOffset.Now.ToUnixTimeMilliseconds());
+                Thread.Sleep(200);
                 Console.WriteLine(Thread.CurrentThread.Name);
             }
         }

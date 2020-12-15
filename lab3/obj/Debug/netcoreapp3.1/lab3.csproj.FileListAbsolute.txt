@@ -1,0 +1,11 @@
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3.deps.json
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3.dll
+/home/vasyl/Projects/sep-calc-tech/lab3/bin/Debug/netcoreapp3.1/lab3.pdb
+/home/vasyl/Projects/sep-calc-tech/lab3/obj/Debug/netcoreapp3.1/lab3.csprojAssemblyReference.cache
+/home/vasyl/Projects/sep-calc-tech/lab3/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+/home/vasyl/Projects/sep-calc-tech/lab3/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+/home/vasyl/Projects/sep-calc-tech/lab3/obj/Debug/netcoreapp3.1/lab3.dll
+/home/vasyl/Projects/sep-calc-tech/lab3/obj/Debug/netcoreapp3.1/lab3.pdb
